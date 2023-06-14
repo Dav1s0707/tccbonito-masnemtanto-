@@ -5,7 +5,7 @@ function Entrada() {
     <div>
       <section>
         <div className="banner1">
-          <h1>Sistema para controle que otimização a gestão da sua empresa</h1>
+          <h1>A PLATAFORMA INTELIGENTE PARA GERENCIAR SEU MERCADO</h1>
           <Button className="botaob1" variant="light">Acessar</Button>
         </div>
       </section>
